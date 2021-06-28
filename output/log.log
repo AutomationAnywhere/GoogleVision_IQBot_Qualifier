@@ -1,0 +1,258 @@
+2021-06-28 11:46:38,944 DEBUG:Google Vision Text extraction started   : C:\Users\Sikha.P\PROJECTS\GoogleVision\output\DRAEGER_SAFETY_AG_and_CO._KGAA_1.png
+2021-06-28 11:46:38,944 DEBUG:Looping through Required/Optional fields 
+2021-06-28 11:46:38,944 DEBUG:Checking Field : Field - OPTIONAL
+2021-06-28 11:46:38,944 DEBUG:Checking Field : Pos.|Position - REQUIRED
+2021-06-28 11:46:38,944 DEBUG:DETECTED as TABLE field : Pos.|Position - REQUIRED
+2021-06-28 11:46:38,944 DEBUG:Drawing bounding box : Pos.|Position - REQUIRED - 
+2021-06-28 11:46:38,955 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:46:38,955 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:46:38,955 DEBUG:Checking Field : Material - REQUIRED
+2021-06-28 11:46:38,965 DEBUG:DETECTED as TABLE field : Material - REQUIRED
+2021-06-28 11:46:38,965 DEBUG:Drawing bounding box : Material - REQUIRED - 
+2021-06-28 11:46:38,975 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:46:38,975 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:46:38,975 DEBUG:Checking Field : Indx|Index - REQUIRED
+2021-06-28 11:46:38,975 DEBUG:DETECTED as TABLE field : Indx|Index - REQUIRED
+2021-06-28 11:46:38,975 DEBUG:Drawing bounding box : Indx|Index - REQUIRED - 
+2021-06-28 11:46:38,983 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:46:38,983 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:46:38,983 DEBUG:Checking Field : Bezeichnung - REQUIRED
+2021-06-28 11:46:38,985 DEBUG:DETECTED as TABLE field : Bezeichnung - REQUIRED
+2021-06-28 11:46:38,985 DEBUG:Drawing bounding box : Bezeichnung - REQUIRED - 
+2021-06-28 11:46:38,995 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:46:38,995 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:46:38,995 DEBUG:Checking Field : Bestellmenge - REQUIRED
+2021-06-28 11:46:39,003 DEBUG:DETECTED as TABLE field : Bestellmenge - REQUIRED
+2021-06-28 11:46:39,003 DEBUG:Drawing bounding box : Bestellmenge - REQUIRED - 
+2021-06-28 11:46:39,006 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:46:39,006 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:46:39,006 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:46:39,016 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:39,016 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:39,016 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:39,016 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:39,026 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:39,026 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:39,026 DEBUG:Checking Field : Preis - REQUIRED
+2021-06-28 11:46:39,026 DEBUG:DETECTED as TABLE field : Preis - REQUIRED
+2021-06-28 11:46:39,026 DEBUG:Drawing bounding box : Preis - REQUIRED - 
+2021-06-28 11:46:39,036 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:46:39,036 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:46:39,036 DEBUG:Checking Field : pro - REQUIRED
+2021-06-28 11:46:39,047 DEBUG:DETECTED as TABLE field : pro - REQUIRED
+2021-06-28 11:46:39,047 DEBUG:Drawing bounding box : pro - REQUIRED - 
+2021-06-28 11:46:39,055 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:46:39,055 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:46:39,063 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:46:39,065 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:39,067 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:39,067 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:39,067 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:39,067 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:39,067 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:39,067 DEBUG:Checking Field : Nettowert - REQUIRED
+2021-06-28 11:46:39,079 DEBUG:DETECTED as TABLE field : Nettowert - REQUIRED
+2021-06-28 11:46:39,079 DEBUG:Drawing bounding box : Nettowert - REQUIRED - 
+2021-06-28 11:46:39,087 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:46:39,087 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:46:39,087 DEBUG:Checking Field : EUR - REQUIRED
+2021-06-28 11:46:39,087 DEBUG:DETECTED as TABLE field : EUR - REQUIRED
+2021-06-28 11:46:39,087 DEBUG:Drawing bounding box : EUR - REQUIRED - 
+2021-06-28 11:46:39,097 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:46:39,097 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:46:39,097 DEBUG:Checking Field : Bestellung - REQUIRED
+2021-06-28 11:46:39,097 DEBUG:DETECTED as FORM field : Bestellung- REQUIRED
+2021-06-28 11:46:39,108 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:46:39,108 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:46:39,108 DEBUG:Checking Field : Bestellnummer - OPTIONAL
+2021-06-28 11:46:39,120 DEBUG:Checking Field : TAUFKIRCHEN - REQUIRED
+2021-06-28 11:46:39,120 DEBUG:DETECTED as FORM field : TAUFKIRCHEN- REQUIRED
+2021-06-28 11:46:39,120 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:46:39,120 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:46:39,120 DEBUG:Checking Field : GmbH - REQUIRED
+2021-06-28 11:46:39,120 DEBUG:DETECTED as FORM field : GmbH- REQUIRED
+2021-06-28 11:46:39,130 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:46:39,130 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:46:39,130 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_1_outputImage.png output image saved in  :  C:\Users\Sikha.P\PROJECTS\GoogleVision\output/Qualified/
+2021-06-28 11:46:39,130 DEBUG:     
+2021-06-28 11:46:39,208 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_1.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:46:39,208 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_1.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:46:54,462 DEBUG:Google Vision Text extraction started   : C:\Users\Sikha.P\PROJECTS\GoogleVision\output\DRAEGER_SAFETY_AG_and_CO._KGAA_2.png
+2021-06-28 11:46:54,462 DEBUG:Looping through Required/Optional fields 
+2021-06-28 11:46:54,462 DEBUG:Checking Field : Field - OPTIONAL
+2021-06-28 11:46:54,462 DEBUG:Checking Field : Pos.|Position - REQUIRED
+2021-06-28 11:46:54,462 DEBUG:DETECTED as TABLE field : Pos.|Position - REQUIRED
+2021-06-28 11:46:54,470 DEBUG:Drawing bounding box : Pos.|Position - REQUIRED - 
+2021-06-28 11:46:54,472 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:46:54,472 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:46:54,472 DEBUG:Checking Field : Material - REQUIRED
+2021-06-28 11:46:54,472 DEBUG:DETECTED as TABLE field : Material - REQUIRED
+2021-06-28 11:46:54,472 DEBUG:Drawing bounding box : Material - REQUIRED - 
+2021-06-28 11:46:54,480 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:46:54,480 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:46:54,480 DEBUG:Checking Field : Indx|Index - REQUIRED
+2021-06-28 11:46:54,488 DEBUG:DETECTED as TABLE field : Indx|Index - REQUIRED
+2021-06-28 11:46:54,488 DEBUG:Drawing bounding box : Indx|Index - REQUIRED - 
+2021-06-28 11:46:54,488 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:46:54,488 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:46:54,488 DEBUG:Checking Field : Bezeichnung - REQUIRED
+2021-06-28 11:46:54,496 DEBUG:DETECTED as TABLE field : Bezeichnung - REQUIRED
+2021-06-28 11:46:54,496 DEBUG:Drawing bounding box : Bezeichnung - REQUIRED - 
+2021-06-28 11:46:54,498 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:46:54,498 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:46:54,498 DEBUG:Checking Field : Bestellmenge - REQUIRED
+2021-06-28 11:46:54,506 DEBUG:DETECTED as TABLE field : Bestellmenge - REQUIRED
+2021-06-28 11:46:54,506 DEBUG:Drawing bounding box : Bestellmenge - REQUIRED - 
+2021-06-28 11:46:54,506 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:46:54,516 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:46:54,516 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:46:54,518 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:54,518 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:54,518 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:54,518 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:54,526 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:54,526 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:54,526 DEBUG:Checking Field : Preis - REQUIRED
+2021-06-28 11:46:54,534 DEBUG:DETECTED as TABLE field : Preis - REQUIRED
+2021-06-28 11:46:54,534 DEBUG:Drawing bounding box : Preis - REQUIRED - 
+2021-06-28 11:46:54,544 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:46:54,544 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:46:54,544 DEBUG:Checking Field : pro - REQUIRED
+2021-06-28 11:46:54,544 DEBUG:DETECTED as TABLE field : pro - REQUIRED
+2021-06-28 11:46:54,544 DEBUG:Drawing bounding box : pro - REQUIRED - 
+2021-06-28 11:46:54,560 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:46:54,560 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:46:54,560 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:46:54,560 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:54,560 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:54,560 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:46:54,560 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:46:54,567 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:54,567 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:46:54,576 DEBUG:Checking Field : Nettowert - REQUIRED
+2021-06-28 11:46:54,576 DEBUG:DETECTED as TABLE field : Nettowert - REQUIRED
+2021-06-28 11:46:54,576 DEBUG:Drawing bounding box : Nettowert - REQUIRED - 
+2021-06-28 11:46:54,586 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:46:54,586 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:46:54,586 DEBUG:Checking Field : EUR - REQUIRED
+2021-06-28 11:46:54,594 DEBUG:DETECTED as TABLE field : EUR - REQUIRED
+2021-06-28 11:46:54,594 DEBUG:Drawing bounding box : EUR - REQUIRED - 
+2021-06-28 11:46:54,600 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:46:54,600 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:46:54,600 DEBUG:Checking Field : Bestellung - REQUIRED
+2021-06-28 11:46:54,600 DEBUG:DETECTED as FORM field : Bestellung- REQUIRED
+2021-06-28 11:46:54,608 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:46:54,608 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:46:54,608 DEBUG:Checking Field : Bestellnummer - OPTIONAL
+2021-06-28 11:46:54,616 DEBUG:Checking Field : TAUFKIRCHEN - REQUIRED
+2021-06-28 11:46:54,616 DEBUG:DETECTED as FORM field : TAUFKIRCHEN- REQUIRED
+2021-06-28 11:46:54,616 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:46:54,616 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:46:54,616 DEBUG:Checking Field : GmbH - REQUIRED
+2021-06-28 11:46:54,616 DEBUG:DETECTED as FORM field : GmbH- REQUIRED
+2021-06-28 11:46:54,624 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:46:54,624 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:46:54,624 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_2_outputImage.png output image saved in  :  C:\Users\Sikha.P\PROJECTS\GoogleVision\output/Qualified/
+2021-06-28 11:46:54,624 DEBUG:     
+2021-06-28 11:46:54,714 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_2.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:46:54,714 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_2.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:47:05,934 DEBUG:Google Vision Text extraction started   : C:\Users\Sikha.P\PROJECTS\GoogleVision\output\DRAEGER_SAFETY_AG_and_CO._KGAA.png
+2021-06-28 11:47:05,935 DEBUG:Looping through Required/Optional fields 
+2021-06-28 11:47:05,935 DEBUG:Checking Field : Field - OPTIONAL
+2021-06-28 11:47:05,936 DEBUG:Checking Field : Pos.|Position - REQUIRED
+2021-06-28 11:47:05,939 DEBUG:DETECTED as TABLE field : Pos.|Position - REQUIRED
+2021-06-28 11:47:05,939 DEBUG:Drawing bounding box : Pos.|Position - REQUIRED - 
+2021-06-28 11:47:05,943 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:47:05,943 DEBUG:Missing field details -REQUIRED-Pos.|Position
+2021-06-28 11:47:05,943 DEBUG:Checking Field : Material - REQUIRED
+2021-06-28 11:47:05,943 DEBUG:DETECTED as TABLE field : Material - REQUIRED
+2021-06-28 11:47:05,943 DEBUG:Drawing bounding box : Material - REQUIRED - 
+2021-06-28 11:47:05,951 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:47:05,951 DEBUG:Missing field details -REQUIRED-Material
+2021-06-28 11:47:05,951 DEBUG:Checking Field : Indx|Index - REQUIRED
+2021-06-28 11:47:05,959 DEBUG:DETECTED as TABLE field : Indx|Index - REQUIRED
+2021-06-28 11:47:05,959 DEBUG:Drawing bounding box : Indx|Index - REQUIRED - 
+2021-06-28 11:47:05,959 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:47:05,959 DEBUG:Missing field details -REQUIRED-Indx|Index
+2021-06-28 11:47:05,959 DEBUG:Checking Field : Bezeichnung - REQUIRED
+2021-06-28 11:47:05,967 DEBUG:DETECTED as TABLE field : Bezeichnung - REQUIRED
+2021-06-28 11:47:05,967 DEBUG:Drawing bounding box : Bezeichnung - REQUIRED - 
+2021-06-28 11:47:05,967 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:47:05,967 DEBUG:Missing field details -REQUIRED-Bezeichnung
+2021-06-28 11:47:05,967 DEBUG:Checking Field : Bestellmenge - REQUIRED
+2021-06-28 11:47:05,975 DEBUG:DETECTED as TABLE field : Bestellmenge - REQUIRED
+2021-06-28 11:47:05,975 DEBUG:Drawing bounding box : Bestellmenge - REQUIRED - 
+2021-06-28 11:47:05,983 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:47:05,983 DEBUG:Missing field details -REQUIRED-Bestellmenge
+2021-06-28 11:47:05,983 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:47:05,991 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:47:05,991 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:47:05,991 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:47:05,991 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:47:05,991 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:47:05,991 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:47:05,999 DEBUG:Checking Field : Preis - REQUIRED
+2021-06-28 11:47:05,999 DEBUG:DETECTED as TABLE field : Preis - REQUIRED
+2021-06-28 11:47:05,999 DEBUG:Drawing bounding box : Preis - REQUIRED - 
+2021-06-28 11:47:06,007 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:47:06,007 DEBUG:Missing field details -REQUIRED-Preis
+2021-06-28 11:47:06,007 DEBUG:Checking Field : pro - REQUIRED
+2021-06-28 11:47:06,007 DEBUG:DETECTED as TABLE field : pro - REQUIRED
+2021-06-28 11:47:06,007 DEBUG:Drawing bounding box : pro - REQUIRED - 
+2021-06-28 11:47:06,023 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:47:06,023 DEBUG:Missing field details -REQUIRED-pro
+2021-06-28 11:47:06,023 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:47:06,023 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:47:06,023 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:47:06,023 DEBUG:DETECTED as TABLE field : Einheit - REQUIRED
+2021-06-28 11:47:06,023 DEBUG:Drawing bounding box : Einheit - REQUIRED - 
+2021-06-28 11:47:06,031 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:47:06,031 DEBUG:Missing field details -REQUIRED-Einheit
+2021-06-28 11:47:06,031 DEBUG:Checking Field : Nettowert - REQUIRED
+2021-06-28 11:47:06,039 DEBUG:DETECTED as TABLE field : Nettowert - REQUIRED
+2021-06-28 11:47:06,039 DEBUG:Drawing bounding box : Nettowert - REQUIRED - 
+2021-06-28 11:47:06,039 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:47:06,039 DEBUG:Missing field details -REQUIRED-Nettowert
+2021-06-28 11:47:06,039 DEBUG:Checking Field : EUR - REQUIRED
+2021-06-28 11:47:06,050 DEBUG:DETECTED as TABLE field : EUR - REQUIRED
+2021-06-28 11:47:06,051 DEBUG:Drawing bounding box : EUR - REQUIRED - 
+2021-06-28 11:47:06,059 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:47:06,059 DEBUG:Missing field details -REQUIRED-EUR
+2021-06-28 11:47:06,059 DEBUG:Checking Field : Bestellung - REQUIRED
+2021-06-28 11:47:06,059 DEBUG:DETECTED as FORM field : Bestellung- REQUIRED
+2021-06-28 11:47:06,059 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:47:06,059 DEBUG:Missing field details -REQUIRED-Bestellung
+2021-06-28 11:47:06,059 DEBUG:Checking Field : Bestellnummer - OPTIONAL
+2021-06-28 11:47:06,075 DEBUG:Checking Field : TAUFKIRCHEN - REQUIRED
+2021-06-28 11:47:06,075 DEBUG:DETECTED as FORM field : TAUFKIRCHEN- REQUIRED
+2021-06-28 11:47:06,075 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:47:06,075 DEBUG:Missing field details -REQUIRED-TAUFKIRCHEN
+2021-06-28 11:47:06,075 DEBUG:Checking Field : GmbH - REQUIRED
+2021-06-28 11:47:06,075 DEBUG:DETECTED as FORM field : GmbH- REQUIRED
+2021-06-28 11:47:06,083 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:47:06,083 DEBUG:Missing field details -REQUIRED-GmbH
+2021-06-28 11:47:06,091 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA_outputImage.png output image saved in  :  C:\Users\Sikha.P\PROJECTS\GoogleVision\output/Qualified/
+2021-06-28 11:47:06,091 DEBUG:     
+2021-06-28 11:47:06,182 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:47:06,182 DEBUG:DRAEGER_SAFETY_AG_and_CO._KGAA.png IS QUALIFIED FOR IQ BOT
+2021-06-28 11:47:15,785 DEBUG:Google Vision Text extraction started   : C:\Users\Sikha.P\PROJECTS\GoogleVision\output\Global_Protect_-_APJSGAPAC.png
+2021-06-28 11:47:15,785 DEBUG:Looping through Required/Optional fields 
+2021-06-28 11:47:15,785 DEBUG:Checking Field : Field - OPTIONAL
+2021-06-28 11:47:15,785 DEBUG:Checking Field : Pos.|Position - REQUIRED
+2021-06-28 11:47:15,801 DEBUG:Checking Field : Material - REQUIRED
+2021-06-28 11:47:15,802 DEBUG:Checking Field : Indx|Index - REQUIRED
+2021-06-28 11:47:15,818 DEBUG:Checking Field : Bezeichnung - REQUIRED
+2021-06-28 11:47:15,818 DEBUG:Checking Field : Bestellmenge - REQUIRED
+2021-06-28 11:47:15,826 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:47:15,834 DEBUG:Checking Field : Preis - REQUIRED
+2021-06-28 11:47:15,842 DEBUG:Checking Field : pro - REQUIRED
+2021-06-28 11:47:15,850 DEBUG:Checking Field : Einheit - REQUIRED
+2021-06-28 11:47:15,858 DEBUG:Checking Field : Nettowert - REQUIRED
+2021-06-28 11:47:15,858 DEBUG:Checking Field : EUR - REQUIRED
+2021-06-28 11:47:15,874 DEBUG:Checking Field : Bestellung - REQUIRED
+2021-06-28 11:47:15,882 DEBUG:Checking Field : Bestellnummer - OPTIONAL
+2021-06-28 11:47:15,890 DEBUG:Checking Field : TAUFKIRCHEN - REQUIRED
+2021-06-28 11:47:15,906 DEBUG:Checking Field : GmbH - REQUIRED
+2021-06-28 11:47:15,906 DEBUG:Global_Protect_-_APJSGAPAC_outputImage.png  output image saved in  :  C:\Users\Sikha.P\PROJECTS\GoogleVision\output/UnQualified/
+2021-06-28 11:47:16,050 DEBUG:Global_Protect_-_APJSGAPAC.png IS NOT QUALIFIED FOR IQ BOT
+2021-06-28 11:47:16,050 DEBUG:Global_Protect_-_APJSGAPAC.png IS NOT QUALIFIED FOR IQ BOT

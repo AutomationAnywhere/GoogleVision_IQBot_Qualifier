@@ -1,0 +1,16 @@
+Field,Required,Field Type
+Pos.|Position,1,table
+Material,1,table
+Indx|Index,1,table
+Bezeichnung,1,table
+Bestellmenge,1,table
+Einheit,1,table
+Preis,1,table
+pro,1,table
+Einheit,1,table
+Nettowert,1,table
+EUR,1,table
+Bestellung,1,form
+Bestellnummer,0,form
+TAUFKIRCHEN,1,form
+GmbH,1,form
